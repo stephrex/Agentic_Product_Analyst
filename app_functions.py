@@ -14,11 +14,11 @@ from typing import List, Dict, Any
 import asyncio
 from agents.extensions.models.litellm_model import LitellmModel
 from agents import OpenAIChatCompletionsModel, set_default_openai_client, set_tracing_disabled, set_default_openai_api, Agent, Runner, function_tool, ItemHelpers
-from google import genai
 import litellm
 import logging
 import math
 logging.getLogger("LiteLLM").setLevel(logging.WARNING)
+
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 import pandas as pd
