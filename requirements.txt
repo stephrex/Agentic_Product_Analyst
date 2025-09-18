@@ -13,3 +13,6 @@ pandas
 numpy
 mplfinance
 wordcloud
+plotly
+aiohttp
+python-dotenv
