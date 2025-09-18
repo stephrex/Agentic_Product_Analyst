@@ -1,0 +1,15 @@
+google-search-results
+PyMuPDF
+markdownify
+readabilipy
+beautifulsoup4
+openai
+openai-agents
+openai-agents[litellm]
+litellm
+matplotlib
+seaborn
+pandas
+numpy
+mplfinance
+wordcloud
